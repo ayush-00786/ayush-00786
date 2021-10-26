@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush-00786
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning coding standards and code optimization
-- 💞️ I’m looking to collaborate on Bizongo code infra
+- 💞️ I’m looking to collaborate on Bizongo code infrastructure
 - 📫 How to reach me: ayush.shrivastava@bizongo.com
 
 <!---
